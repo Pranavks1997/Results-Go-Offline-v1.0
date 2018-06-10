@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Nishanth\Database\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e73118a786d8babdd7ef1a4f94a345bfee6f98cf">
+        <dex dex="D:\Nishanth\Database\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_cd6a5173ea9039d356a68b81502cb08a325e489f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Nishanth\Database\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\Nishanth\Database\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_840b2275d437572570cf8cdc37bb7a2563f4fb75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Nishanth\Database\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="D:\Nishanth\Database\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.0.1_292d29cfdaecff77c8627909b86a5d708a65f8a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Nishanth\Database\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\Nishanth\Database\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_2a59e6fefd831cd3503dcb852185205e762f370a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Nishanth\Database\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\Nishanth\Database\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_3877b0dfd65691eecb3c9910b2f5470ee772ab03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Nishanth\Database\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="D:\Nishanth\Database\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.0.1_d234a29cc2ec0be4058031bcf9332ab4af9c137c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Nishanth\Database\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="D:\Nishanth\Database\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.0.1_d9cb0cc3fbf6463ee57b8165b4bda4eb3fe62014.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Nishanth\Database\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="D:\Nishanth\Database\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-10.0.1_a0e3210063375090c54e5e7f2feebbc5b8f65e0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Nishanth\Database\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="D:\Nishanth\Database\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.0.1_eeb404877e57f723dc0d4feac2674373b0504835.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Nishanth\Database\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="D:\Nishanth\Database\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-10.0.1_0bd6e99bf0426c76e0b7459b8cd68dd33ae3ff63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Nishanth\Database\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\Nishanth\Database\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_07120449ef8148b33e99f389a57434a5b85fffd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Nishanth\Database\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\Nishanth\Database\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_1f9af95568f04d98f31c74916efa9d4d5d5ef7f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\Nishanth\Database\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_0103f83adf5d37a9d29f1aa525ed237be18f660e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Nishanth\Database\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="D:\Nishanth\Database\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.0.1_bd7864229107f808f1f42428024e9aa03ac441f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Nishanth\Database\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\Nishanth\Database\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_e69f524595cea6366bcd14f4bd4807d8b88bcbb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Nishanth\Database\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\Nishanth\Database\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_6461233de76d3d3c4b2acfa9963007f7cd216852.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.readystatesoftware.sqliteasset\sqliteassethelper\2.0.1\d5f02e4a4d65ec0fbb339f2e4228723d1540bb9f\sqliteassethelper-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5f02e4a4d65ec0fbb339f2e4228723d1540bb9f">
+        <dex dex="D:\Nishanth\Database\app\build\intermediates\pre-dexed\debug\sqliteassethelper-2.0.1_a1d0287adf7b971628680626250ce7a41d224788.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Nishanth\Database\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="D:\Nishanth\Database\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.0.1_da52ec227810b24240ab8d76fd6789c932ef2a8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Nishanth\Database\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\Nishanth\Database\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_389e8a302a142a7dbc40aed4e68659fc6392c4cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Nishanth\Database\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6d6a4dd49b764c9ffeb9e29f92eba4eb78dd7d6b">
+        <dex dex="D:\Nishanth\Database\app\build\intermediates\pre-dexed\debug\instant-run_02390734bd64340cc5578903ab248ad16d505533.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Nishanth\Database\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\Nishanth\Database\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_1918734a27582612c6f312fd34bc8b33ccdf7356.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Nishanth\Database\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\Nishanth\Database\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_8d91b23c064d5542cd52957f52a41d580a7c0928.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Nishanth\Database\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\Nishanth\Database\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_db1459cb54185838c1b09e11b26208839f9987ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Nishanth\Database\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="D:\Nishanth\Database\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.0.0_ce9f8eaa5f92140fab6f906038436c41f5e17dce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Nishanth\Database\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\Nishanth\Database\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_732eaeac9cbd31b1fa9ddc357dabeffea81be554.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Nishanth\Database\app\build\intermediates\exploded-aar\com.android.support\design\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="D:\Nishanth\Database\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.0.0_fe19f279005fd138434bb5dbdc24a2af54916c72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Nishanth\Database\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\Nishanth\Database\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_2b1c1549cde452e5d37c9d05f5d2dd3d8d80a50f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Nishanth\Database\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Nishanth\Database\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_8b4718782de00445098fe30b796a45f087d6d617.jar" />
+    </item>
+
+</items>
