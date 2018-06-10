@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/total_credit_points"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="4dp"
+        android:background="@drawable/background_circle"
+        android:gravity="center_vertical"
+        android:textAlignment="center"
+        android:textSize="80sp"
+        tools:text="192" />
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/total_credit_points"
+        android:gravity="center"
+        android:textSize="32sp"
+        android:textStyle="bold"
+        tools:text="Nishanth" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@color/colorPrimary"
+        android:layout_below="@id/name"
+        android:id="@+id/line"/>
+
+        <ListView xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:layout_height="match_parent"
+            android:layout_width="wrap_content"
+            android:layout_below="@id/line"
+            android:layout_marginLeft="8dp"
+            android:divider="@null"
+            android:dividerHeight="0dp"
+            android:id="@+id/llist" />
+
+
+    <TextView
+        android:id="@+id/sgpa"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="bottom"
+        android:background="@color/colorPrimary"
+        android:gravity="center"
+        android:textSize="48sp"
+        tools:text="8.84" />
+
+
+</RelativeLayout>
+
